@@ -4,7 +4,7 @@
 
 ### 操作issue
 - [x] 创建Issue
-- [ ] 删除Issue
+- [x] 删除Issue
 - [ ] 从评论打开Issue
 - [ ] 从代码打开Issue
 - [ ] 将Issue转让给其他仓库

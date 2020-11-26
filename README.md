@@ -11,10 +11,10 @@
 - [x] 将Issue固定到仓库
 - [x] 创建指向代码段的永久链接
 - [x] 关于任务列表
-- [ ] 关于使用参数自动化Issue和PR
-- [ ] Issue和PR中的文件附件
-- [ ] 分配Issue和PR到其他github用户
-- [ ] 查看所有Issue和PR
-- [ ] 禁用Issue
-- [ ] 将PR链接到Issue
-- [ ] 关于重复的Issue和PR
+- [x] 关于使用参数自动化Issue和PR
+- [x] Issue和PR中的文件附件
+- [x] 分配Issue和PR到其他github用户
+- [x] 查看所有Issue和PR
+- [x] 禁用Issue
+- [x] 将PR链接到Issue
+- [x] 关于重复的Issue和PR
